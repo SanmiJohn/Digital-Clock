@@ -40,7 +40,6 @@ div>span {
 
 @media (max-width: 850px) {
     body {
-        padding-top: 1rem;
         align-items: start;
     }
 
