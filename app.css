@@ -38,7 +38,7 @@ div>span {
     font-size: 4rem;
 }
 
-@media (max-width: 580px) {
+@media (max-width: 850px) {
     main {
         width: 25rem;
     }
