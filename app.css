@@ -39,13 +39,18 @@ div>span {
 }
 
 @media (max-width: 850px) {
+    body {
+        padding-top: 1rem;
+        align-items: start;
+    }
+
     main {
-        width: 25rem;
+        width: 22rem;
     }
 
     div {
-        height: 6rem;
-        width: 6rem;
+        height: 5rem;
+        width: 5rem;
     }
 
     div>span {
